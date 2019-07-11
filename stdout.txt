@@ -1,0 +1,97 @@
+CONTAINER ID        IMAGE                     COMMAND                    CREATED             STATUS                             PORTS                    NAMES
+dd0b897f25db        onnx-ecosystem            "jupyter notebook --…"     9 days ago          Exited (1073807364) 40 hours ago                            goofy_jepsen
+69ec75171a54        onnx-ecosystem            "jupyter notebook --…"     9 days ago          Exited (1073807364) 9 days ago                              competent_volhard
+919ca3b8c10d        onnx-ecosystem            "jupyter notebook --…"     10 days ago         Exited (1073807364) 9 days ago                              unruffled_lamport
+275c77093acd        onnx-ecosystem            "jupyter notebook --…"     10 days ago         Exited (1073807364) 9 days ago                              frosty_spence
+6ec8af341c4c        onnx-ecosystem            "jupyter notebook --…"     12 days ago         Exited (1073807364) 9 days ago                              elastic_blackburn
+db076bab0811        onnx-ecosystem            "jupyter notebook --…"     12 days ago         Exited (1073807364) 12 days ago                             competent_noether
+668d69433e09        onnx-ecosystem            "jupyter notebook --…"     12 days ago         Created                            8888/tcp                 modest_volhard
+140349e5198b        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 stupefied_jang
+8fddde376107        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 optimistic_clarke
+694ff4105307        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 gallant_bardeen
+1a300dcadaf8        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 amazing_ardinghelli
+bd4d51801428        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 pedantic_pare
+8c81dd0f193b        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 eloquent_neumann
+dcde25da354b        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 hungry_allen
+48283289d030        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 kind_lamport
+fce8f059f1d4        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 silly_napier5
+450c1c18e479        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Created                            8888/tcp                 goofy_goldwasser
+aaa9bbb959e5        onnx-ecosystem            "jupyter notebook --…"     13 days ago         Exited (1073807364) 12 days ago                             hungry_almeida
+1555f6640ca8        onnx-ecosystem            "jupyter notebook --…"     2 weeks ago         Up 25 hours                        8888/tcp                 gifted_elion
+efcffd85bc1b        onnx-ecosystem            "jupyter notebook --…"     2 weeks ago         Exited (1073807364) 12 days ago                             cranky_borg
+bb9c6dec6fbc        onnx-ecosystem:latest     "cmd"                      2 weeks ago         Exited (4294967295) 40 hours ago   8888/tcp                 angry_hamilton
+9918d40389cb        onnx-ecosystem:latest     "-m 5g cmd"                2 weeks ago         Created                            8888/tcp                 gallant_jackson
+89385578c7d8        onnx-ecosystem:latest     "cmd"                      2 weeks ago         Exited (4294967295) 2 weeks ago    8888/tcp                 clever_sammet
+fc91fc9bf1b5        onnx-ecosystem:latest     "cmd"                      2 weeks ago         Exited (4294967295) 2 weeks ago                             jolly_rubin
+aeca12c771bd        onnx-ecosystem:latest     "cmd"                      2 weeks ago         Exited (4294967295) 2 weeks ago                             flamboyant_haibt
+bc3f6bbcea00        onnx-ecosystem:latest     "cmd"                      3 weeks ago         Exited (4294967295) 2 weeks ago    8888/tcp                 lucid_hermann
+c7944cd9eb56        onnx-ecosystem:latest     "-m 5g cmd"                3 weeks ago         Created                            8888/tcp                 brave_curie0
+b93e8edbb44d        onnx-ecosystem:latest     "cmd"                      3 weeks ago         Exited (1073807364) 3 weeks ago                             loving_saha
+3d373b1dab63        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (4294967295) 3 weeks ago    8888/tcp                 vibrant_montalcini
+b467f6072fe3        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (1073807364) 3 weeks ago                             relaxed_chandrasekhar
+23870d17e4e8        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (4294967295) 3 weeks ago    8888/tcp                 upbeat_wu
+a4ed5339cf21        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (1073807364) 3 weeks ago                             goofy_pascal
+3a9fabb6fe5a        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (1073807364) 3 weeks ago                             fervent_joliot
+05bb14c10b5b        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (1073807364) 3 weeks ago                             flamboyant_taussig
+b5e17a14c8da        onnx-ecosystem            "jupyter notebook --…"     3 weeks ago         Exited (1073807364) 3 weeks ago                             compassionate_volhard
+a7406d2d50bb        onnx-ecosystem            "jupyter notebook --…"     4 weeks ago         Exited (4294967295) 3 weeks ago    8888/tcp                 optimistic_wu
+6c8230c7963b        volume_test               "cmd"                      4 weeks ago         Exited (4294967295) 4 weeks ago                             zealous_fermi
+7ad92140af7d        onnx-ecosystem            "jupyter notebook --…"     4 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 hungry_kalam
+ed494bb2e89b        onnx-ecosystem            "jupyter notebook --…"     4 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 mystifying_booth
+3d4ba3bccd88        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 sleepy_jones
+301c491c5b85        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 pedantic_jang6
+66ae6dde3f85        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 compassionate_antonelli
+f70623cd88ae        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 eager_vaughan
+18281e41b151        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 eloquent_northcutt
+97ca7bfd3a42        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 distracted_rosalind
+eba92e68b591        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 fervent_booth
+ab78839cad24        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 practical_rosalind
+0caa871c1bbd        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 determined_varahamihira
+51846283f8c8        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 brave_jones
+3c8da455341c        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 pedantic_galileo
+a01ed7c03e00        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 mystifying_ellis
+c1d504e4f5aa        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (1073807364) 5 weeks ago                             eloquent_hellman
+edf0ccf84f83        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (1073807364) 5 weeks ago                             hungry_shannon
+77ca03a37402        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (1073807364) 5 weeks ago                             boring_khayyam
+013c4398cc4a        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 vibrant_raman
+76b68a4f8afd        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 thirsty_gates
+76ca1e64ab00        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 gifted_turing
+f821a0685dce        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 nostalgic_antonelli
+a16ee9e5da0b        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 awesome_chatelet
+6d0429195e92        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 4 weeks ago    8888/tcp                 confident_lumiere
+c958ed90151a        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Created                            8888/tcp                 blissful_noyce
+9ef5f9ae962e        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Created                            8888/tcp                 confident_morse
+5c52c32d3961        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Created                            8888/tcp                 elastic_jones
+5db63582d355        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Created                            8888/tcp                 friendly_hypatia
+5fc1f1ad1261        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 objective_clarke
+530c5c97c2c4        onnx-ecosystem:latest     "cmd"                      5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 quirky_elion
+ad11291ba92b        onnx-ecosystem:latest     "cmd"                      5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 elated_feistel
+1a0e24f23e81        onnx-ecosystem:latest     "cmd"                      5 weeks ago         Exited (3221225786) 5 weeks ago                             lucid_knuth
+91b338423cb8        onnx-ecosystem:latest     "cmd"                      5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 nostalgic_nobel
+9cb81fdcc64d        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (1073807364) 5 weeks ago                             sad_mclean
+d76a453e9ff5        onnx-ecosystem:latest     "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 practical_engelbart
+49b9ee6a9aa9        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 flamboyant_ptolemy
+74a083416bb8        onnx-ecosystem            "jupyter notebook --…"     5 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 competent_knuth
+62067e21f1b9        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 amazing_cartwright
+6086f526178b        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 compassionate_ritchie
+f64e054360b7        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 flamboyant_carson
+9ddf03b4ae41        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 thirsty_khorana
+e70bad1fc4c3        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 suspicious_meitner
+289e49ee1256        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 cranky_thompson
+bb5d468a9f48        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 upbeat_colden
+92ca7e3f497b        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 compassionate_robinson
+fcaeaaa617c1        e6967ca9c05a              "cmd /S /C 'certutil…"     6 weeks ago         Exited (4294967295) 5 weeks ago                             awesome_lalande
+b21173889877        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 cranky_chatterjee
+3705ae43c55c        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 agitated_jepsen
+2e62b8a39657        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 jolly_khayyam5
+fb2b18b24f0e        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 competent_lumiere
+7e1c9f98d5e0        onnx-ecosystem            "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 brave_brattain
+bcf9d23f1cdb        test_8                    "c:\\windows\\system32…"   6 weeks ago         Exited (4294967295) 5 weeks ago                             friendly_sanderson
+a6ec426c35d8        onnx-ecosystem-2:latest   "jupyter notebook --…"     6 weeks ago         Exited (4294967295) 5 weeks ago    0.0.0.0:8888->8888/tcp   clever_joliot
+243d8c79c6ee        onnx-ecosystem-2:latest   "jupyter notebook --…"     6 weeks ago         Created                                                     romantic_albattani
+6e6c8208a159        onnx-ecosystem-2:latest   "jupyter notebook --…"     6 weeks ago         Exited (1073807364) 6 weeks ago                             ecstatic_fermat
+a407bad430b3        onnx-ecosystem:latest     "cmd"                      6 weeks ago         Exited (4294967295) 5 weeks ago    8888/tcp                 boring_bell
+23918b051afa        test_8                    "c:\\windows\\system32…"   6 weeks ago         Exited (4294967295) 5 weeks ago                             frosty_mclean
+9df9724403f0        test_8                    "c:\\windows\\system32…"   6 weeks ago         Exited (4294967295) 5 weeks ago                             adoring_hoover
+36862ab2fba4        test_7                    "c:\\windows\\system32…"   6 weeks ago         Exited (4294967295) 5 weeks ago                             brave_bassi
+1c0f8d5c928f        test_8                    "c:\\windows\\system32…"   6 weeks ago         Exited (4294967295) 5 weeks ago                             affectionate_mestorf
